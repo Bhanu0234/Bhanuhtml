@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Hello Everyone Iam Bhanu Prasad Chdirieddi</h1>
+</head>
+<hr/>
+<h2>Iam Going To Tell You My Interests in Various Areas</h2>
+<ol>
+<li><h3>Sports</h3></li>
+<ul>
+<img src="https://www.google.com/imgres?q=gif%20of%20cricket%20game&imgurl=https%3A%2F%2Fmedia.tenor.com%2F5C8U1qip-K0AAAAM%2Fcricket-game.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcricket-game-sports-gif-7609253&docid=SqupdhJ98koC6M&tbnid=yByjBnO2esljZM&vet=12ahUKEwj9p9PrtOOHAxWAyDgGHdAHJ8MQM3oECBcQAA..i&w=220&h=120&hcb=2&ved=2ahUKEwj9p9PrtOOHAxWAyDgGHdAHJ8MQM3oECBcQAA"/>
+<li>Cricket</li>
+<li>Kabaddi</li>
+<li>Volley Ball</li>
+</ul>
+<li><h3>Entertainment</h3></li>
+<ul>
+<li>Movies</li>
+<li>Going Outside</li>
+<li>Farming</li>
+</ul>
+</ol>
+<h2>These All Are Activities</h2>
+</html>
